@@ -239,5 +239,53 @@
       "Orizzonte e Profilo del Monte Ararat",
       "Piazza della Repubblica & Monumenti Sovietici"
     ]
+  }  
+  {
+    "id": "lanzarote",
+    "titolo": "Lanzarote",
+    "label": "LANZAROTE",
+    "sottotitolo": "Geometrie vulcaniche, terre scure e le visioni organiche di Manrique",
+    "paese": "Spagna",
+    "codice_paese": "es",
+    "stem_height": 24,
+    "lat": 28.963,
+    "lng": -13.5477,
+    "anno": 2025,
+    "storia": "Un'esplorazione visiva tra la materia lavica del Timanfaya, i contrasti cromatici della Geria e l'integrazione armonica tra architettura e natura firmata da César Manrique.",
+    "articolo": [
+      "Lanzarote si presenta come un laboratorio minerario a cielo aperto, dove la forza primordiale dei vulcani incontra la trasparenza dell'oceano e il rigore dell'intervento umano. Fotografare l'isola significa lavorare con una tavolozza essenziale ed estrema: il nero assoluto del basalto, il bianco candido dell'architettura tradizionale e l'azzurro profondo del cielo e del mare.",
+      "Tra i crateri e le distese di cenere del Parco Nazionale Timanfaya, il paesaggio acquisisce una dimensione quasi lunare, in cui le geometrie delle colate laviche creano ombre nette e rilievi materici ad alto contrasto. Nella regione vitivinicola de La Geria, l'ingegno contadino dialoga con la terra attraverso emicicli di pietra scura scavati nella cenere vulcanica, componendo un pattern visivo ipnotico e rigoroso.",
+      "L'opera di César Manrique – dai Jameos del Agua al Mirador del Río – offre infine una sintesi sublime tra spazio naturale e design concettuale, guidando la lente fotografica verso una continua ricerca di equilibrio tra forma, luce e materia."
+    ],
+    "peculiarita": [
+      "Paesaggi Vulcanici del Timanfaya",
+      "Geometrie Vitivinicole de La Geria",
+      "Architettura Organica di César Manrique",
+      "Contrasti tra Basalto Nero e Architettura Bianca"
+    ]
+  },
+  {
+    "id": "corfu",
+    "titolo": "Corfù",
+    "label": "CORFÙ",
+    "sottotitolo": "Eredità veneziana, scogliere ioniche e la luce d'oro dell'Eptaneso",
+    "paese": "Grecia",
+    "codice_paese": "gr",
+    "stem_height": 20,
+    "lat": 39.6243,
+    "lng": 19.9217,
+    "anno": 2026,
+    "storia": "Un itinerario fotografico nell'isola dello Ionio: la densità urbana e fortificata della Old Town veneziana, le coste scolpite di Paleokastritsa e i riflessi radenti sul mare.",
+    "articolo": [
+      "Corfù rappresenta una declinazione singolare della luce greca, dove l'impronta classica ed egea si fonde con l'eleganza neoclassica e le severe strutture difensive della Repubblica di Venezia. Il centro storico della città di Corfù, protetto dalla Fortezza Vecchia e dalla Fortezza Nuova, offre una fitta rete di vicoli lastricati (kantounia) e facciate dai toni ocra e terracotta che catturano la luce calda del pomeriggio.",
+      "Allontanandosi dall'ambiente urbano, il paesaggio dell'isola rivela un profilo topografico variegato e drammatico: le scogliere calcaree di Paleokastritsa e le formazioni rocciose di Sidari modellate dal vento e dal mare creano severe linee di fuga e forti contrasti cromatici con le sfumature turchesi e blu cobalto dello Ionio.",
+      "La narrazione visiva esplora la continuità tra la pietra logorata dal tempo, la vegetazione secolare e il ritmo tranquillo della costa, costruendo un racconto rigoroso di un'isola cerniera tra Occidente e Levante."
+    ],
+    "peculiarita": [
+      "Centro Storico Veneziano & Fortezze",
+      "Scogliere Calcaree di Paleokastritsa",
+      "Toni Ocra e Terracotta dell'Architettura",
+      "Luce Radente sullo Ionio"
+    ]
   }
 ]
