@@ -1,0 +1,14 @@
+{
+  "name": "lorfabphotos",
+  "version": "1.0.0",
+  "description": "Portfolio Fotografico 3D LorfabPhotos su GitHub Pages",
+  "main": "scripts/generate-manifest.js",
+  "scripts": {
+    "build": "node scripts/generate-manifest.js",
+    "manifest": "node scripts/generate-manifest.js",
+    "serve": "npx serve ."
+  },
+  "keywords": ["photography", "portfolio", "globe-gl", "threejs", "webgl"],
+  "author": "Fabrizio Lorenzetti",
+  "license": "MIT"
+}

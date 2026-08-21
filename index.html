@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>LORFAB — Photography & World Archive</title>
+  <meta name="description" content="Portfolio fotografico personale di Fabrizio Lorenzetti. Luoghi, architetture, viaggi e memorie attraverso un globo 3D interattivo.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;1,300&family=Syne:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  
+  <!-- Globe.gl WebGL Library (Open Source, MIT) -->
+  <script src="https://unpkg.com/globe.gl@2.32.1/dist/globe.gl.min.js"></script>
+</head>
+<body class="globe-active">
+  <!-- Minimal Editorial Header -->
+  <header class="site-header" id="site-header">
+    <div class="header-left">
+      <a href="index.html" class="brand-logo" id="brand-logo">
+        <span class="brand-title">LORFAB</span>
+        <span class="brand-sub">PHOTOGRAPHIC ARCHIVE</span>
+      </a>
+    </div>
+    <div class="header-center">
+      <div class="status-indicator">
+        <span class="pulse-dot"></span>
+        <span class="status-text" id="status-label">EXPLORE THE GLOBE</span>
+      </div>
+    </div>
+    <nav class="header-right">
+      <span class="archive-stat" id="archive-stat-counter">—</span>
+      <a href="bio.html" class="nav-link">BIO</a>
+    </nav>
+  </header>
+
+  <!-- 3D WebGL Globe Container -->
+  <main id="globe-view">
+    <div id="globe-container"></div>
+    
+    <!-- Controls Hint Overlay (Fades out on interaction) -->
+    <div class="globe-hint" id="globe-hint">
+      <span>RUOTA E TRASCINA IL MONDO PER ESPLORARE I LUOGHI</span>
+    </div>
+  </main>
+
+  <!-- Floating Trip Info Card (Appears on marker click) -->
+  <aside class="trip-card" id="trip-card" aria-hidden="true">
+    <button class="card-close-btn" id="card-close-btn" aria-label="Chiudi dettaglio viaggio">✕</button>
+    <div class="card-meta">
+      <span class="card-year" id="card-year">2025</span>
+      <span class="card-count" id="card-count">0 FOTOGRAFIE</span>
+    </div>
+    <h2 class="card-title" id="card-title">Uzbekistan</h2>
+    <p class="card-subtitle" id="card-subtitle">Dalla Via della Seta al post-brutalismo sovietico</p>
+    <p class="card-story" id="card-story">Un percorso attraverso città, architetture e paesaggi dell'Asia Centrale.</p>
+    
+    <div class="card-preview-container" id="card-preview-container">
+      <img id="card-preview-img" class="card-preview-img" src="" alt="" loading="lazy">
+    </div>
+
+    <button class="btn-primary" id="btn-open-gallery">
+      <span>VEDI FOTOGRAFIE</span>
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+        <line x1="5" y1="12" x2="19" y2="12"></line>
+        <polyline points="12 5 19 12 12 19"></polyline>
+      </svg>
+    </button>
+  </aside>
+
+  <!-- Fullscreen Dynamic Editorial Gallery -->
+  <section class="gallery-view" id="gallery-view" aria-hidden="true">
+    <div class="gallery-header">
+      <button class="gallery-back-btn" id="gallery-back-btn" aria-label="Torna al mappamondo">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="19" y1="12" x2="5" y2="12"></line>
+          <polyline points="12 19 5 12 12 5"></polyline>
+        </svg>
+        <span>TORNA AL GLOBO</span>
+      </button>
+      <div class="gallery-header-info">
+        <h1 class="gallery-title" id="gallery-title">—</h1>
+        <p class="gallery-subtitle" id="gallery-subtitle">—</p>
+      </div>
+      <div class="gallery-header-meta">
+        <span class="gallery-count-badge" id="gallery-count-badge">0 FOTOGRAFIE</span>
+      </div>
+    </div>
+
+    <div class="gallery-content">
+      <div class="gallery-intro-narrative" id="gallery-intro-narrative">
+        <p id="gallery-story-text">—</p>
+      </div>
+
+      <!-- Asymmetrical Editorial Image Grid -->
+      <div class="gallery-grid" id="gallery-grid">
+        <!-- Dynamically generated via JavaScript -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Fullscreen Lightbox -->
+  <div class="lightbox" id="lightbox" aria-hidden="true" role="dialog">
+    <div class="lightbox-backdrop" id="lightbox-backdrop"></div>
+    <div class="lightbox-controls">
+      <span class="lightbox-counter" id="lightbox-counter">01 / 01</span>
+      <button class="lightbox-btn lightbox-close" id="lightbox-close" aria-label="Chiudi lightbox">✕</button>
+    </div>
+
+    <button class="lightbox-btn lightbox-prev" id="lightbox-prev" aria-label="Fotografia precedente">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <polyline points="15 18 9 12 15 6"></polyline>
+      </svg>
+    </button>
+
+    <div class="lightbox-stage" id="lightbox-stage">
+      <img class="lightbox-image" id="lightbox-image" src="" alt="Fotografia portfolio" />
+      <div class="lightbox-caption" id="lightbox-caption"></div>
+    </div>
+
+    <button class="lightbox-btn lightbox-next" id="lightbox-next" aria-label="Fotografia successiva">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+        <polyline points="9 18 15 12 9 6"></polyline>
+      </svg>
+    </button>
+  </div>
+
+  <!-- Toast Notification System -->
+  <div class="toast-container" id="toast-container" aria-live="polite"></div>
+
+  <!-- Main JavaScript Application -->
+  <script src="script.js"></script>
+</body>
+</html>

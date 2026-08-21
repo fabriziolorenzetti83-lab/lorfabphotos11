@@ -1,0 +1,243 @@
+[
+  {
+    "id": "atene",
+    "titolo": "Atene",
+    "label": "ATENE",
+    "sottotitolo": "Dall'Acropoli classica alle geometrie razionaliste dell'Attica",
+    "paese": "Grecia",
+    "codice_paese": "gr",
+    "stem_height": 20,
+    "lat": 37.9838,
+    "lng": 23.7275,
+    "anno": 2024,
+    "storia": "La culla del pensiero occidentale: il candore del marmo pentelico dell'Acropoli, le stratificazioni urbane di Plaka e Monastiraki e la luce abbagliante dell'Egeo.",
+    "articolo": [
+      "Atene è una metropoli di contrasti abbaglianti, in cui il silenzio monumentale dell'antichità si staglia sopra una città moderna densa, caotica e vitale. Fotografare la capitale greca significa misurarsi con una luce mediterranea purissima e implacabile, che scolpisce ogni scanalatura delle colonne del Partenone e rivela la matericità del marmo pentelico consumato dai millenni.",
+      "Dalle pendici dell'Acropoli alle geometrie popolari di Anafiotika e ai quartieri modernisti e razionalisti, la città offre prospettive aperte verso le colline del Licabetto e scorci urbani in cui antico e contemporaneo convivono gomito a gomito. Il bianco delle pietre storiche dialoga con le ombre nette proiettate dal sole allo zenit.",
+      "Ogni inquadratura ricerca la sintesi tra equilibrio classico e dinamismo urbano, catturando l'anima di un luogo che continua a ridefinire la propria identità tra memoria e presente."
+    ],
+    "peculiarita": [
+      "Acropoli & Marmo Pentelico",
+      "Quartiere di Anafiotika & Plaka",
+      "Luce Mediterranea dell'Egeo",
+      "Modernismo Ateniese & Vista sul Licabetto"
+    ]
+  },
+  {
+    "id": "cracovia",
+    "titolo": "Cracovia",
+    "label": "CRACOVIA",
+    "sottotitolo": "Pietra medievale, geometrie del silenzio e memorie di Kazimierz",
+    "paese": "Polonia",
+    "codice_paese": "pl",
+    "stem_height": 20,
+    "lat": 50.0647,
+    "lng": 19.9450,
+    "anno": 2024,
+    "storia": "Un percorso fotografico nel cuore storico della Polonia, tra le architetture severe del centro, le strade dense di storia di Kazimierz e la luce malinconica dell'Europa Centrale.",
+    "articolo": [
+      "Cracovia è una città in cui la storia europea non si è semplicemente depositata, ma ha scolpito ogni singolo mattone, pietra e cortile. Esplorarla attraverso l'obiettivo significa entrare in sintonia con una monumentalità intima e austera, dove il gotico e il rinascimento della piazza del Mercato (Rynek Główny) e del complesso del Wawel convivono con le tracce vive del Novecento.",
+      "Nel quartiere ebraico di Kazimierz, le facciate segnate dal tempo e i cortili interni offrono una luce soffusa e riflessi profondi, perfetti per una fotografia contemplativa e rigorosa. L'atmosfera si fa densa, quasi sospesa, invitando a rallentare il passo per cogliere i dettagli materiali degli edifici e le ombre lunghe che tagliano le vie lastricate.",
+      "Ogni scatto è un tentativo di restituire la dignità silenziosa di una città che ha saputo custodire la propria anima intatta, trasformando la memoria in uno spazio visivo contemporaneo."
+    ],
+    "peculiarita": [
+      "Quartiere Ebraico di Kazimierz",
+      "Castello e Cattedrale del Wawel",
+      "Architettura Gotica & Rinascimentale",
+      "Luce Malinconica dell'Est Europa"
+    ]
+  },
+  {
+    "id": "giordania",
+    "titolo": "Giordania",
+    "label": "GIORDANIA",
+    "sottotitolo": "Dalla pietra scolpita di Petra alle sabbie rosse del Wadi Rum",
+    "paese": "Giordania",
+    "codice_paese": "jo",
+    "stem_height": 24,
+    "lat": 30.3285,
+    "lng": 35.4444,
+    "anno": 2024,
+    "storia": "Un viaggio tra le meraviglie nabatee scavate nell'arenaria rosa, le distese marziane del Wadi Rum e la pietra bianca della cittadella di Amman.",
+    "articolo": [
+      "La Giordania è una terra in cui la geologia e l'ingegno umano hanno dato vita a paesaggi visivi senza eguali. L'esperienza di Petra, accessibile attraverso la stretta gola del Siq che culmina nella visione improvvisa e vertiginosa del Tesoro (Al-Khazneh), rappresenta una delle massime vette dell'architettura rupestre mondiale.",
+      "Nel deserto del Wadi Rum, il paesaggio si trasforma in una superficie quasi marziana: pareti di roccia arenaria e granito emergono da dune di sabbia rossa e ocra, creando scale monumentali in cui la figura umana scompare e il silenzio si fa assoluto. La luce all'alba e al tramonto accende la pietra di tonalità calde e drammatiche.",
+      "Completano il percorso i mosaici bizantini di Madaba e i contrasti topografici di Amman, componendo un racconto visivo dove il tempo sembra essersi fermato tra roccia e vento."
+    ],
+    "peculiarita": [
+      "Petra & Architettura Nabatea Rupestre",
+      "Deserto e Canyon del Wadi Rum",
+      "Arenaria Rosa e Sabbia Rossa",
+      "Cittadella di Amman & Madaba"
+    ]
+  },
+  {
+    "id": "istanbul",
+    "titolo": "Istanbul",
+    "label": "ISTANBUL",
+    "sottotitolo": "Sulle rive del Bosforo: cupole bizantine, minareti e orizzonti tra due continenti",
+    "paese": "Turchia",
+    "codice_paese": "tr",
+    "stem_height": 52,
+    "lat": 41.0082,
+    "lng": 28.9784,
+    "anno": 2024,
+    "storia": "La megalopoli sospesa tra Oriente e Occidente: le sagome monumentali delle moschee ottomane, i riflessi del Corno d'Oro e l'incessante respiro delle sue vie storiche.",
+    "articolo": [
+      "Istanbul è uno straordinario palinsesto visivo, una città-mondo in cui la grandiosità dell'Impero Bizantino e dell'Impero Ottomano si riflette continuamente nelle acque dello stretto del Bosforo e del Corno d'Oro. Fotografare Istanbul è un'esperienza sensoriale e geometrica potente, guidata dal ritmo serrato delle cupole che si susseguono all'orizzonte e dai minareti che tagliano il cielo.",
+      "Dalle geometrie solenni di Santa Sofia e della Moschea di Solimano ai vicoli vibranti di Balat e Fener, la luce di Istanbul muta continuamente: limpida e abbagliante a mezzogiorno, dorata e densa di salsedine all'imbrunire, quando il profilo dei traghetti si trasforma in pura silhouette contro l'acqua.",
+      "L'obiettivo cerca di isolare il silenzio e la purezza architettonica all'interno del continuo fermento urbano, cercando quel punto di equilibrio eterno in cui l'Asia e l'Europa si incontrano."
+    ],
+    "peculiarita": [
+      "Cupole & Minareti Ottomani",
+      "Riflessi del Bosforo & Corno d'Oro",
+      "Stratificazione Bizantina",
+      "Luce Dorata al Tramonto"
+    ]
+  },
+  {
+    "id": "praga",
+    "titolo": "Praga",
+    "label": "PRAGA",
+    "sottotitolo": "Torri gotiche, ponti di pietra e le prospettive barocche della Boemia",
+    "paese": "Repubblica Ceca",
+    "codice_paese": "cz",
+    "stem_height": 52,
+    "lat": 50.0755,
+    "lng": 14.4378,
+    "anno": 2024,
+    "storia": "La città delle cento torri: le sculture del Ponte Carlo, le geometrie del Castello di Praga e la densità architettonica di Malá Strana e Staré Město.",
+    "articolo": [
+      "Praga possiede un'aura architettonica tra le più scenografiche d'Europa. Attraversata dal corso serpeggiante della Moldava, la capitale boema è un teatro di pietra in cui il gotico più acuminato incontra il barocco più opulento e le raffinatezze moderniste del primo Novecento.",
+      "Il Ponte Carlo, con le sue severe statue barocche che emergono dalla nebbia mattutina, e la salita monumentale verso la Cattedrale di San Vito offrono prospettive prospettiche e scorci geometrici perfetti per una ricerca visiva basata su linee verticali, simmetrie e contrasti chiaroscurali.",
+      "Tra i vicoli di Malá Strana e le geometrie dell'orologio astronomico nella piazza della Città Vecchia, ogni inquadratura celebra l'eleganza senza tempo di una città misteriosa e magnetica."
+    ],
+    "peculiarita": [
+      "Ponte Carlo & Sculture Barocche",
+      "Cattedrale di San Vito & Castello",
+      "Torri Gotiche & Tetti di Malá Strana",
+      "Riflessi sulla Moldava"
+    ]
+  },
+  {
+    "id": "pristina",
+    "titolo": "Pristina",
+    "label": "PRISTINA",
+    "sottotitolo": "Geometrie brutaliste, memoria post-bellica e l'energia dei Balcani",
+    "paese": "Kosovo",
+    "codice_paese": "xk",
+    "stem_height": 20,
+    "lat": 42.6629,
+    "lng": 21.1655,
+    "anno": 2024,
+    "storia": "La capitale più giovane d'Europa: un'indagine visiva sulle architetture brutaliste jugoslave, sui vuoti urbani in trasformazione e sui segni indelebili della storia balcanica recente.",
+    "articolo": [
+      "Pristina è una città fuori dagli schemi convenzionali del turismo, un luogo autentico e spigoloso in cui l'energia della capitale più giovane d'Europa si scontra quotidianamente con le cicatrici della storia recente. Per la fotografia d'architettura e di ricerca urbana, è uno scenario di straordinario interesse visivo.",
+      "Il fulcro visivo della città è senza dubbio la Biblioteca Nazionale del Kosovo, capolavoro dell'architetto Andrija Mutnjaković: una struttura monumentale e visionaria avvolta da una griglia metallica a nido d'ape e sormontata da 73 cupole bianche in plexiglas. Fotografarla da ogni angolazione significa esplorare il confine tra monumentalità brutalista jugoslava e identità regionale.",
+      "Accanto al cemento e ai monumenti simbolo come il Newborn, Pristina rivela una vivacità sociale e una spontaneità urbana che rendono ogni inquadratura un frammento di memoria contemporanea in continua evoluzione."
+    ],
+    "peculiarita": [
+      "Biblioteca Nazionale (Brutalismo)",
+      "Monumento Newborn",
+      "Architettura Jugoslava in Cemento",
+      "Spazi Urbani in Transizione"
+    ]
+  },
+  {
+    "id": "sarajevo-srebrenica",
+    "titolo": "Sarajevo e Srebrenica",
+    "label": "SARAJEVO",
+    "sottotitolo": "Tracce indelebili, silenzi della memoria e contrasti balcanici",
+    "paese": "Bosnia ed Erzegovina",
+    "codice_paese": "ba",
+    "stem_height": 58,
+    "lat": 43.8563,
+    "lng": 18.4131,
+    "anno": 2024,
+    "storia": "Un reportage profondo e contemplativo tra le vie ottomane e austro-ungariche di Sarajevo, il Memoriale di Srebrenica e il Tunnel della Speranza.",
+    "articolo": [
+      "Questo reportage attraverso la Bosnia ed Erzegovina rappresenta un viaggio nella memoria viva e nell'anima resiliente dei Balcani. A Sarajevo, la coesistenza tra i minareti della Baščaršija, le facciate asburgiche e i palazzi segnati dall'assedio testimonia una complessità umana e storica senza pari.",
+      "Il percorso tocca i luoghi simbolo della resistenza e della tragedia: il Tunnel di Sarajevo (Tunnel Spasa), via di salvezza sotterranea durante l'assedio, e il Memoriale di Potočari a Srebrenica, dove le migliaia di stele bianche allineate nel silenzio assoluto impongono un rigore fotografico fatto di rispetto, contemplazione e distanza etica.",
+      "La fotografia si fa qui testimonianza e custode del ricordo, ricercando la dignità della luce e della forma per non dimenticare."
+    ],
+    "peculiarita": [
+      "Memoriale di Potočari a Srebrenica",
+      "Tunnel della Speranza (Sarajevo)",
+      "Baščaršija & Architettura Asburgica",
+      "Pista da Bob del Trebević & Memoria"
+    ]
+  },
+  {
+    "id": "siviglia",
+    "titolo": "Siviglia",
+    "label": "SIVIGLIA",
+    "sottotitolo": "Architettura mudéjar, azulejos e le avanguardie del Metropol Parasol",
+    "paese": "Spagna",
+    "codice_paese": "es",
+    "stem_height": 24,
+    "lat": 37.3891,
+    "lng": -5.9845,
+    "anno": 2024,
+    "storia": "Un percorso articolato attraverso i capolavori della capitale andalusa: dal Real Alcázar a Plaza de España, dalla Cattedrale al Metropol Parasol, fino ai giardini e palazzi storici.",
+    "articolo": [
+      "Siviglia è una sinfonia visiva di luce andalusa, geometria islamica e monumentalità rinascimentale e barocca. L'archivio documenta in modo capillare le diverse anime architettoniche della città, a partire dall'intreccio sublime del Real Alcázar, con i suoi cortili mudéjar, stucchi arabeggianti e giardini lussureggianti in cui l'acqua riflette archi policromi.",
+      "La maestosità della Cattedrale con la torre della Giralda e l'abbraccio semicircolare monumentale di Plaza de España, con i suoi ponti e azulejos ceramici, dialogano con la sperimentazione contemporanea del Metropol Parasol (le celebri Setas de Sevilla di Jürgen Mayer), la più grande struttura in legno del mondo che ridisegna il cielo del centro storico.",
+      "Completano il racconto fotografico il Palacio de San Telmo, la storica Plaza de Toros della Real Maestranza e l'intimità raccolta di Plaza del Cabildo, offrendo una visione completa e sfaccettata dell'eccellenza architettonica sivigliana."
+    ],
+    "peculiarita": [
+      "Real Alcázar & Arte Mudéjar",
+      "Plaza de España & Azulejos",
+      "Cattedrale e Torre della Giralda",
+      "Metropol Parasol (Setas de Sevilla)",
+      "Palacio de San Telmo & Plaza de Toros"
+    ]
+  },
+  {
+    "id": "uzbekistan",
+    "titolo": "Uzbekistan",
+    "label": "UZBEKISTAN",
+    "sottotitolo": "Dalla Via della Seta al post-brutalismo sovietico",
+    "paese": "Uzbekistan",
+    "codice_paese": "uz",
+    "stem_height": 28,
+    "lat": 41.2995,
+    "lng": 69.2401,
+    "anno": 2025,
+    "storia": "Un percorso attraverso città, architetture e paesaggi dell'Asia Centrale. Dai mosaici turchesi di Samarcanda e Bukhara alle geometrie monumentali di Tashkent.",
+    "articolo": [
+      "L’Uzbekistan è una terra di contrasti monumentali, dove la perfezione matematica delle maioliche della Via della Seta incontra le audaci sperimentazioni strutturali del modernismo sovietico. Viaggiare attraverso Tashkent, Samarcanda, Bukhara e Khiva offre a chi fotografa una sequenza continua di geometrie assolute e silenzi millenari.",
+      "A Tashkent, la ricostruzione post-terremoto del 1966 ha prodotto alcuni dei più straordinari esempi di architettura sovietica dell'Asia Centrale, come l'iconico Hotel Uzbekistan e le stazioni decorate della metropolitana. A Samarcanda (con il Registan e Shah-i Zinda) e Bukhara, l'architettura islamica si manifesta con una policromia abbacinante, dove l'azzurro e il turchese risaltano contro la terra ocra del deserto.",
+      "La luce tersa e radente dell'Asia Centrale scolpisce ogni rilievo e ogni intaglio, rendendo ogni fotografia un tributo alla forma, alla geometria e all'incontro millenario tra civiltà."
+    ],
+    "peculiarita": [
+      "Registan & Mosaici di Samarcanda",
+      "Minareti & Madrase di Bukhara",
+      "Modernismo Sovietico a Tashkent",
+      "Luce Dorata dell'Asia Centrale"
+    ]
+  },
+  {
+    "id": "yerevan",
+    "titolo": "Yerevan",
+    "label": "YEREVAN",
+    "sottotitolo": "La città del tufo rosa, la monumentale Cascata e la memoria del Caucaso",
+    "paese": "Armenia",
+    "codice_paese": "am",
+    "stem_height": 28,
+    "lat": 40.1792,
+    "lng": 44.4991,
+    "anno": 2024,
+    "storia": "La capitale armena dominata dal profilo del Monte Ararat: il tufo vulcanico neoclassico e sovietico, la scalinata monumentale della Cascata e i monasteri del Caucaso.",
+    "articolo": [
+      "Yerevan possiede una cifra cromatica e materica unica al mondo: costruita in gran parte in tufo vulcanico rosa e ocra, la capitale dell'Armenia unisce l'urbanistica circolare pianificata da Alexander Tamanian con la severa monumentalità dell'architettura di epoca sovietica.",
+      "L'opera più iconica e visivamente sorprendente è la Cascata (Kaskad): una mastodontica scalinata monumentale in pietra calcarea che risale la collina urbana, arricchita da sculture contemporanee, fontane geometriche e una terrazza panoramica che nelle giornate limpide offre una vista mozzafiato sul maestoso profilo innevato del Monte Ararat.",
+      "La luce limpida di montagna esalta la texture porosa del tufo e scolpisce i volumi delle piazze monumentali, offrendo una narrazione visiva che fonde geologia, arte pubblica e identità caucasica."
+    ],
+    "peculiarita": [
+      "Il Complesso Monumentale della Cascata",
+      "Architettura in Tufo Vulcanico Rosa",
+      "Orizzonte e Profilo del Monte Ararat",
+      "Piazza della Repubblica & Monumenti Sovietici"
+    ]
+  }
+]
