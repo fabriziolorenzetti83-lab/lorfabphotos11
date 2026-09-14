@@ -287,5 +287,29 @@
       "Toni Ocra e Terracotta dell'Architettura",
       "Luce Radente sullo Ionio"
     ]
+  },
+  {
+    "id": "malaga",
+    "titolo": "Malaga",
+    "label": "MALAGA",
+    "sottotitolo": "Tra la monumentalità moresca e il fermento della Costa del Sol",
+    "paese": "Spagna",
+    "codice_paese": "es",
+    "stem_height": 20,
+    "lat": 36.7213,
+    "lng": -4.4214,
+    "anno": 2024,
+    "storia": "La perla luminosa dell'Andalusia marittima: il rosso mattone dell'Alcazaba, le suggestioni romane del Teatro e il bianco abbagliante della luce andalusa riflessa sul Mediterraneo.",
+    "articolo": [
+      "Malaga è una vibrante metropoli di mare che unisce secoli di stratificazione fenicia, romana e moresca a una modernità culturale effervescente. Fotografare la città andalusa significa catturare la luce dorata del Mediterraneo che si riflette sulle facciate storiche e scolpisce i volumi imponenti della Gibralfaro e dell'Alcazaba.",
+      "Dal dedalo di vicoli del centro storico alle geometrie contemporanee del Muelle Uno e del Centre Pompidou, la città offre un dialogo continuo tra il calore della tradizione e l'avanguardia artistica. Il verde dei giardini mediterranei e il bianco calce dei muri creano contrasti cromatici netti e carichi di energia visiva.",
+      "Ogni inquadratura ricerca l'essenza di un luogo accogliente e fiero, capace di fondere la quiete dei suoi panorami marittimi con il battito pulsante della vita andalusa."
+    ],
+    "peculiarita": [
+      "Alcazaba & Castello di Gibralfaro",
+      "Centro Storico & Calle Larios",
+      "Luce Dorata del Mediterraneo",
+      "Muelle Uno & Avanguardia Culturale"
+    ]
   }
 ]
