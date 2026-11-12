@@ -311,5 +311,29 @@
       "Luce Dorata del Mediterraneo",
       "Muelle Uno & Avanguardia Culturale"
     ]
+  },
+  {
+    "id": "londra",
+    "titolo": "Londra",
+    "label": "LONDRA",
+    "sottotitolo": "Dal mattone vittoriano alle vertigini di vetro sulla riva del Tamigi",
+    "paese": "Regno Unito",
+    "codice_paese": "gb",
+    "stem_height": 20,
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "anno": 2024,
+    "storia": "Una capitale globale in perenne metamorfosi: l'imponenza neogotica di Westminster, le architetture industriali in mattone rosso lungo il Tamigi e le linee audaci dello skyline della City.",
+    "articolo": [
+      "Londra è un laboratorio architettonico a cielo aperto, dove la solennità delle istituzioni storiche dialoga senza sosta con la sperimentazione contemporanea. Fotografare la capitale britannica significa cogliere il contrasto tra la matericità del mattone vittoriano, la pietra di Portland e le superfici riflettenti dei grattacieli che ridisegnano l'orizzonte.",
+      "Dalle anse del Tamigi ai vicoli della City, fino alle grandi rigenerazioni post-industriali come King's Cross e Southbank, la città si svela attraverso una luce mutevole, spesso filtrata dalle nuvole, che esalta i toni freddi del metallo e i contrasti cromatici degli spazi urbani.",
+      "Ogni inquadratura ricerca l'equilibrio tra memoria imperiale e slancio futuristico, raccontando il ritmo incessante di una metropoli capace di reinventarsi a ogni angolo di strada."
+    ],
+    "peculiarita": [
+      "Skyline della City & Architettura Contemporanea",
+      "Tamigi, Ponti & Southbank",
+      "Mattone Vittoriano & Pietra di Portland",
+      "Luce Atlantica & Rigenerazione Urbana"
+    ]
   }
 ]
