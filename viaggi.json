@@ -407,5 +407,29 @@
       "Giardini del Generalife & Giochi d'Acqua",
       "Luce Andalusa & Sfondo della Sierra Nevada"
     ]
+  },
+  {
+    "id": "nosybe",
+    "titolo": "Nosy Be",
+    "label": "NOSY BE",
+    "sottotitolo": "Dalle distese di ylang-ylang ai profili vulcanici sull'Oceano Indiano",
+    "paese": "Madagascar",
+    "codice_paese": "mg",
+    "stem_height": 20,
+    "lat": -13.3117,
+    "lng": 48.2592,
+    "anno": 2018,
+    "storia": "L'isola dei profumi nel canale del Mozambico: i laghi craterici dell'entroterra, le piantagioni tropicali e gli orizzonti liquidi incorniciati dalle sagome degli arcipelaghi circostanti.",
+    "articolo": [
+      "Nosy Be è un microcosmo tropicale in cui la forza primordiale del paesaggio vulcanico incontra la quiete trasparente dell'Oceano Indiano. Fotografare l'isola malgascia significa confrontarsi con una luce equatoriale intensa e avvolgente, che satura il verde profondo della foresta di Lokobe e accende i contrasti cromatici tra la terra rossa e le sfumature turchesi delle lagune.",
+      "Dai punti panoramici del Mont Passot, da cui lo sguardo abbraccia i laghi vulcanici e le isole satellite di Nosy Komba e Nosy Tanikely, fino alle lingue di sabbia bianca di Nosy Iranja, ogni luogo offre geometrie naturali ampie e minimaliste scandite dal ritmo delle maree.",
+      "Ogni inquadratura ricerca la purezza delle linee d'orizzonte e la ricchezza materica degli elementi naturali, restituendo l'atmosfera sospesa e incontaminata dell'isola."
+    ],
+    "peculiarita": [
+      "Mont Passot & Laghi Craterici",
+      "Lingua di Sabbia di Nosy Iranja",
+      "Foresta Primaria di Lokobe",
+      "Luce Equatoriale & Orizzonti dell'Oceano Indiano"
+    ]
   }
 ]
