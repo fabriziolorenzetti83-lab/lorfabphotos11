@@ -383,5 +383,29 @@
       "Dune di Wahiba Sands & Monti Hajar",
       "Luce Desertica & Orizzonti Aperti"
     ]
+  },
+  {
+    "id": "granada",
+    "titolo": "Granada",
+    "label": "GRANADA",
+    "sottotitolo": "Dai merletti nasridi dell'Alhambra ai vicoli bianchi dell'Albaicín",
+    "paese": "Spagna",
+    "codice_paese": "es",
+    "stem_height": 20,
+    "lat": 37.1773,
+    "lng": -3.5986,
+    "anno": 2018,
+    "storia": "L'ultimo baluardo di Al-Andalus ai piedi della Sierra Nevada: gli intarsi geometrici dell'Alhambra, il dedalo bianco dell'Albaicín e i riflessi dell'acqua tra cortili e giardini.",
+    "articolo": [
+      "Granada è un luogo sospeso tra epoche e culture, dove l'eredità islamica dialoga con la solennità rinascimentale sullo sfondo maestoso della Sierra Nevada. Fotografare la città andalusa significa confrontarsi con una luce limpida e calda, che accende i toni ocra e rossastri delle mura dell'Alhambra e disegna trame d'ombra attraverso gli stucchi traforati dei palazzi nasridi.",
+      "Dai cortili silenziosi del Generalife alle salite lastricate dell'Albaicín e del Sacromonte, ogni scorcio offre prospettive stratificate in cui l'acqua delle vasche moltiplica le architetture e il bianco della calce contrasta con il cielo terso d'Andalusia.",
+      "Ogni inquadratura ricerca la sintesi tra il rigore matematico delle geometrie moresche e la spontaneità organica del tessuto urbano, catturando l'anima intima e luminosa della città."
+    ],
+    "peculiarita": [
+      "Alhambra & Geometrie Nasridi",
+      "Quartiere dell'Albaicín & Mirador de San Nicolás",
+      "Giardini del Generalife & Giochi d'Acqua",
+      "Luce Andalusa & Sfondo della Sierra Nevada"
+    ]
   }
 ]
