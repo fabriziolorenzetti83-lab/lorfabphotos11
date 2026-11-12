@@ -335,5 +335,29 @@
       "Mattone Vittoriano & Pietra di Portland",
       "Luce Atlantica & Rigenerazione Urbana"
     ]
+  },
+  {
+    "id": "berlino",
+    "titolo": "Berlino",
+    "label": "BERLINO",
+    "sottotitolo": "Dal rigore prussiano al brutalismo della ricostruzione contemporanea",
+    "paese": "Germania",
+    "codice_paese": "de",
+    "stem_height": 20,
+    "lat": 52.5200,
+    "lng": 13.4050,
+    "anno": 2024,
+    "storia": "Una metropoli segnata dalle cicatrici del Novecento: il neoclassicismo dell'Isola dei Musei, le geometrie del modernismo tedesco e gli ampi vuoti urbani lungo il corso della Sprea.",
+    "articolo": [
+      "Berlino è una città che ha fatto della stratificazione storica la propria cifra estetica, dove i vuoti lasciati dal passato diventano spazi di sperimentazione architettonica. Fotografare la capitale tedesca significa confrontarsi con ampie prospettive orizzontali, volumi massicci in cemento a vista e superfici vetrate che riflettono il cielo del Nord.",
+      "Dalle architetture monumentali di Mitte e Alexanderplatz fino agli ex spazi industriali di Kreuzberg e alle geometrie essenziali di Potsdamer Platz, la luce radente e spesso diffusa esalta la severità delle linee e la trama ruvida dei materiali.",
+      "Ogni inquadratura esplora il dialogo continuo tra memoria e rinascita, restituendo l'immagine di una capitale austera, libera e in costante ridefinizione."
+    ],
+    "peculiarita": [
+      "Brutalismo & Architettura Post-Bellica",
+      "Isola dei Musei & Neoclassicismo Prussiano",
+      "Ampi Vuoti Urbani & Corso della Sprea",
+      "Rigenerazione Post-Industriale & Luce Nordica"
+    ]
   }
 ]
