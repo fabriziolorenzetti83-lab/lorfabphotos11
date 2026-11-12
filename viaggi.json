@@ -298,7 +298,7 @@
     "stem_height": 20,
     "lat": 36.7213,
     "lng": -4.4214,
-    "anno": 2024,
+    "anno": 2026,
     "storia": "La perla luminosa dell'Andalusia marittima: il rosso mattone dell'Alcazaba, le suggestioni romane del Teatro e il bianco abbagliante della luce andalusa riflessa sul Mediterraneo.",
     "articolo": [
       "Malaga è una vibrante metropoli di mare che unisce secoli di stratificazione fenicia, romana e moresca a una modernità culturale effervescente. Fotografare la città andalusa significa catturare la luce dorata del Mediterraneo che si riflette sulle facciate storiche e scolpisce i volumi imponenti della Gibralfaro e dell'Alcazaba.",
@@ -322,7 +322,7 @@
     "stem_height": 20,
     "lat": 51.5072,
     "lng": -0.1276,
-    "anno": 2024,
+    "anno": 2022,
     "storia": "Una capitale globale in perenne metamorfosi: l'imponenza neogotica di Westminster, le architetture industriali in mattone rosso lungo il Tamigi e le linee audaci dello skyline della City.",
     "articolo": [
       "Londra è un laboratorio architettonico a cielo aperto, dove la solennità delle istituzioni storiche dialoga senza sosta con la sperimentazione contemporanea. Fotografare la capitale britannica significa cogliere il contrasto tra la matericità del mattone vittoriano, la pietra di Portland e le superfici riflettenti dei grattacieli che ridisegnano l'orizzonte.",
@@ -346,7 +346,7 @@
     "stem_height": 20,
     "lat": 52.5200,
     "lng": 13.4050,
-    "anno": 2024,
+    "anno": 2022,
     "storia": "Una metropoli segnata dalle cicatrici del Novecento: il neoclassicismo dell'Isola dei Musei, le geometrie del modernismo tedesco e gli ampi vuoti urbani lungo il corso della Sprea.",
     "articolo": [
       "Berlino è una città che ha fatto della stratificazione storica la propria cifra estetica, dove i vuoti lasciati dal passato diventano spazi di sperimentazione architettonica. Fotografare la capitale tedesca significa confrontarsi con ampie prospettive orizzontali, volumi massicci in cemento a vista e superfici vetrate che riflettono il cielo del Nord.",
@@ -358,6 +358,30 @@
       "Isola dei Musei & Neoclassicismo Prussiano",
       "Ampi Vuoti Urbani & Corso della Sprea",
       "Rigenerazione Post-Industriale & Luce Nordica"
+    ]
+  },
+  {
+    "id": "oman",
+    "titolo": "Oman",
+    "label": "OMAN",
+    "sottotitolo": "Dalle fortezze di terra cruda alle geometrie monumentali di Mascate",
+    "paese": "Oman",
+    "codice_paese": "om",
+    "stem_height": 20,
+    "lat": 23.5880,
+    "lng": 58.3829,
+    "anno": 2019,
+    "storia": "Crocevia millenario tra deserto e oceano: i forti in fango essiccato dell'entroterra, la sobrietà bianca dell'architettura islamica contemporanea e i paesaggi aridi dei monti Hajar.",
+    "articolo": [
+      "L'Oman offre un paesaggio visivo dominato dal dialogo silenzioso tra l'architettura tradizionale e una natura monumentale. Fotografare il Sultanato significa confrontarsi con una luce desertica intensa e avvolgente, che scolpisce le superfici porose dei forti storici in terra cruda e accende il candore abbacinante dei marmi della Grande Moschea del Sultano Qaboos.",
+      "Dalle geometrie essenziali di Mascate alle oasi fortificate di Nizwa e Bahla, fino alle distese sabbiose di Wahiba Sands e ai canyon rocciosi del Jebel Akhdar, ogni luogo rivela un equilibrio rigoroso tra tradizione e modernità misurata, priva di eccessi verticali.",
+      "Ogni inquadratura ricerca l'armonia tra il silenzio degli spazi aperti e la pulizia delle forme architettoniche, restituendo l'essenza austera e luminosa della penisola arabica."
+    ],
+    "peculiarita": [
+      "Fortezze in Terra Cruda & Oasi di Nizwa",
+      "Architettura Islamica Contemporanea di Mascate",
+      "Dune di Wahiba Sands & Monti Hajar",
+      "Luce Desertica & Orizzonti Aperti"
     ]
   }
 ]
